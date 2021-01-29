@@ -5,3 +5,5 @@ Install Electron Forge in a folder | "npx create-electron-app my-app"
 Replace the src folder with the one provided 
 
 You can edit the Layout | use "npm start" to run the software
+
+https://nodejs.org/en/ | https://www.electronforge.io/
